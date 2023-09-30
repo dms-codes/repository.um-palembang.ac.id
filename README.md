@@ -1,4 +1,4 @@
-# repository.um-palembang.ac.id
+
 # Web Scraper for UM Palembang Repository
 
 This Python script is a web scraper that collects information from the UM Palembang Repository website. It retrieves data about research documents and saves it to a CSV file.
